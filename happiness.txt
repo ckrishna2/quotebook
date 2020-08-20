@@ -5,3 +5,5 @@ Happy line 2
 Happy line 3
 
 Happiness change 2
+
+added line to create merge conflict
