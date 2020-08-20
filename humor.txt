@@ -1,7 +1,7 @@
 Humor line 1
 
 <<<<<<< HEAD
-I like blue..
+I actually like black..
 =======
 I like blue..
 >>>>>>> colour_quote
