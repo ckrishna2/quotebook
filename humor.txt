@@ -1,6 +1,10 @@
 Humor line 1
 
-I like yellow ..
+<<<<<<< HEAD
+I like blue..
+=======
+I like blue..
+>>>>>>> colour_quote
 
 humor line 3
 
