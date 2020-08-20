@@ -1,1 +1,3 @@
 line one in personal quotes file in a branch
+
+line 2 in personal quotes. after first merge
