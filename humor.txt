@@ -2,6 +2,8 @@ Humor line 1
 
 added this line to track changes in GITHUB remote
 
+added this line to simulate the PULL after changes made to Remote.
+
 <<<<<<< HEAD
 I actually like black..
 =======
